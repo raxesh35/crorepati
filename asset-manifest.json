@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crorepati/static/css/main.2d4d5380.css",
+    "main.js": "/crorepati/static/js/main.c75447e5.js",
+    "static/js/845.8810c718.chunk.js": "/crorepati/static/js/845.8810c718.chunk.js",
+    "static/js/787.8eeb6277.chunk.js": "/crorepati/static/js/787.8eeb6277.chunk.js",
+    "static/media/wait.mp3": "/crorepati/static/media/wait.30e329da76ae665702f7.mp3",
+    "static/media/bg.jpg": "/crorepati/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/crorepati/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/crorepati/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/crorepati/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/crorepati/index.html",
+    "main.2d4d5380.css.map": "/crorepati/static/css/main.2d4d5380.css.map",
+    "main.c75447e5.js.map": "/crorepati/static/js/main.c75447e5.js.map",
+    "845.8810c718.chunk.js.map": "/crorepati/static/js/845.8810c718.chunk.js.map",
+    "787.8eeb6277.chunk.js.map": "/crorepati/static/js/787.8eeb6277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4d5380.css",
+    "static/js/main.c75447e5.js"
+  ]
+}
